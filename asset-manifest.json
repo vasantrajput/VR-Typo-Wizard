@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VR-Typo-Wizard/static/css/main.e6c13ad2.css",
+    "main.js": "/VR-Typo-Wizard/static/js/main.c86f1a17.js",
+    "static/js/453.421ec23a.chunk.js": "/VR-Typo-Wizard/static/js/453.421ec23a.chunk.js",
+    "index.html": "/VR-Typo-Wizard/index.html",
+    "main.e6c13ad2.css.map": "/VR-Typo-Wizard/static/css/main.e6c13ad2.css.map",
+    "main.c86f1a17.js.map": "/VR-Typo-Wizard/static/js/main.c86f1a17.js.map",
+    "453.421ec23a.chunk.js.map": "/VR-Typo-Wizard/static/js/453.421ec23a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c86f1a17.js"
+  ]
+}
